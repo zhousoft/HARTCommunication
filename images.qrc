@@ -1,0 +1,85 @@
+<RCC>
+    <qresource prefix="/myImage">
+        <file>images/main.png</file>
+        <file alias="logo">images/logo.png</file>
+        <file>images/wuweitu.png</file>
+        <file>images/hart connect.png</file>
+        <file>images/leidawuweitu.png</file>
+    </qresource>
+    <qresource prefix="/sysButton">
+        <file>images/sysButton/arrow_down.png</file>
+        <file alias="close">images/sysButton/close.png</file>
+        <file alias="close_hover">images/sysButton/close_hover.png</file>
+        <file alias="close_pressed">images/sysButton/close_pressed.png</file>
+        <file>images/sysButton/feedback.png</file>
+        <file>images/sysButton/feedback_hover.png</file>
+        <file>images/sysButton/feedback_pressed.png</file>
+        <file alias="min">images/sysButton/min.png</file>
+        <file alias="min_hover">images/sysButton/min_hover.png</file>
+        <file alias="minpressd">images/sysButton/min_pressed.png</file>
+    </qresource>
+    <qresource prefix="/toolWidget">
+        <file alias="connect">images/toolWidget/connect.png</file>
+        <file alias="current">images/toolWidget/current.png</file>
+        <file alias="device">images/toolWidget/device.png</file>
+        <file alias="other">images/toolWidget/other.png</file>
+        <file alias="process">images/toolWidget/process.png</file>
+        <file alias="sample">images/toolWidget/sample.png</file>
+        <file alias="wuwei">images/toolWidget/wuwei.png</file>
+    </qresource>
+    <qresource prefix="/skin">
+        <file>images/skin/0.png</file>
+        <file>images/skin/0_big.png</file>
+        <file>images/skin/1.png</file>
+        <file>images/skin/1_big.png</file>
+        <file>images/skin/2.png</file>
+        <file>images/skin/2_big.png</file>
+        <file>images/skin/3.png</file>
+        <file>images/skin/3_big.png</file>
+        <file>images/skin/4.png</file>
+        <file>images/skin/4_big.png</file>
+        <file>images/skin/5.png</file>
+        <file>images/skin/5_big.png</file>
+        <file>images/skin/6.png</file>
+        <file>images/skin/6_big.png</file>
+        <file>images/skin/7.png</file>
+        <file>images/skin/7_big.png</file>
+        <file>images/skin/8.png</file>
+        <file>images/skin/8_big.png</file>
+        <file>images/skin/9.png</file>
+        <file>images/skin/9_big.png</file>
+        <file>images/skin/10.png</file>
+        <file>images/skin/10_big.png</file>
+        <file>images/skin/11.png</file>
+        <file>images/skin/11_big.png</file>
+        <file>images/skin/12.png</file>
+        <file>images/skin/12_big.png</file>
+        <file>images/skin/13.png</file>
+        <file>images/skin/13_big.png</file>
+        <file alias="14">images/skin/14.png</file>
+        <file alias="14_big">images/skin/14_big.png</file>
+        <file>images/skin/15.jpg</file>
+        <file>images/skin/15_big.jpg</file>
+        <file>images/skin/16.jpg</file>
+        <file>images/skin/16_big.jpg</file>
+        <file>images/skin/17.jpg</file>
+        <file>images/skin/17_big.jpg</file>
+        <file>images/skin/18.jpg</file>
+        <file>images/skin/18_big.jpg</file>
+        <file>images/skin/19.jpg</file>
+        <file>images/skin/19_big.jpg</file>
+        <file>images/skin/20.jpg</file>
+        <file>images/skin/20_big.jpg</file>
+        <file>images/skin/21.jpg</file>
+        <file>images/skin/21_big.jpg</file>
+        <file>images/skin/22.jpg</file>
+        <file>images/skin/22_big.jpg</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file alias="GLPsystem">images/GLPsystem.qss</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file alias="lowAlarm">sound/lowAlarm.WAV</file>
+        <file alias="upAlarm">sound/upAlarm.WAV</file>
+    </qresource>
+</RCC>

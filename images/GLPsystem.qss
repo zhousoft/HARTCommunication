@@ -1,0 +1,9 @@
+
+
+QToolButton#transparentToolButton{
+	background:transparent;
+}
+
+QLabel#whiteLabel{
+	color:white;
+}
