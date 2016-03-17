@@ -1,3 +1,9 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+
 # C++ objects and libs
 
 *.slo
